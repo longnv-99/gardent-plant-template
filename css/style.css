@@ -380,11 +380,11 @@ ul,li{
 	border-radius: 30px;
 	display: inline-block;
 	color: #fff;
-	font-size: 12px;
+	font-size: 14px;
 	font-family: 'Raleway', sans-serif;
 	text-transform: uppercase;
 	font-weight: bold;
-	padding: 12px 35px;
+	padding: 7px 10px;
 	border: 2px solid transparent;
 	transition: all .3s ease;
 }
@@ -814,8 +814,8 @@ ul,li{
 }
 .appoinment-btn {
 	position: absolute;
-	right: 0;
-	top: 25px;
+	right: 15px;
+	top: 23px;
 }
 .appoinment-form-outer {
 	position:relative;
